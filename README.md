@@ -1,9 +1,27 @@
 #  Projeto gerenciar de tarefas com [Vue 3, Vuex 4, Typescript, Mixins, Hooks]
 
-## Sobre o Projeto?
-1. Criação do gerenciador de tarefas.
+## Project about?
+1. Criação do gerenciador de tarefas e projeto.
 
-## Configurações
+## Project setup
 ```
-yarn add vue-router@4
+npm install
 ```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
