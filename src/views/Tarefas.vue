@@ -28,7 +28,7 @@ data () {
   }
 },
 methods: {
-  salvarTarefa (tarefa:ITarefa) : void {
+  salvarTarefa (tarefa: ITarefa): void {    
     this.tarefas.push(tarefa)
   }
 },
