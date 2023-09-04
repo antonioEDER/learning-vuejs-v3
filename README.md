@@ -3,6 +3,11 @@
 ## Project about?
 1. Criação do gerenciador de tarefas e projeto.
 
+## Vuejs
+1. Composition API
+2. Vue Fragments
+3. Teleport
+
 ## Project setup
 ```
 npm install
